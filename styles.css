@@ -34,16 +34,25 @@ p, h2 {
 	color: white !important;
 }
 
+li {
+	font-weight: 400;
+}
+
 p.a {
     font-size: 17px;
+	font-weight: 400;
 }
 
 p.b {
     font-size: 30px; 
+	font-weight: 700;
+}
+iframe.a {
+    color: black; 
 }
 
 h2.a{
-    font-size: 65px; text-align: center;
+    font-size: 65px; text-align: center;font-weight: 700;
 }
 
 .carousel-control.left, .carousel-control.right {
